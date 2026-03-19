@@ -54,6 +54,10 @@ This project implements a **Service Discovery** pattern where:
 └─────────────────────────────────────────────────────────────────┘
 ```
 
+## Demo Video
+
+[Watch the Demo](https://drive.google.com/file/d/1AspZQG_Zo2DMpY0Rl3ogYu9Iu6dL3_Ce/view?usp=share_link)
+
 ## Components
 
 | Component | File | Port | Description |
